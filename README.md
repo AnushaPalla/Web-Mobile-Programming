@@ -6,7 +6,7 @@ Team Members:
 
 Name: Palla.Anusha , Class ID: 29 
 
-Name: Jakkala.Hiresh , Bhaskar Class ID: 16
+Name: Jakkala.Hiresh Bhaskar , Class ID: 16
 
-Name: Madamanchi.Naga , Bindu Class ID: 21
+Name: Madamanchi.Naga Bindu , Class ID: 21
 
