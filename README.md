@@ -4,9 +4,9 @@ This repository is for submitting my source code and documentations for both In-
 
 Team Members:
 
-Name: Palla,Anusha Class ID: 29 
+Name: Palla.Anusha Class ID: 29 
 
-Name: Hiresh Jakkala Bhaskar Class ID: 16
+Name: Jakkala.Hiresh Bhaskar Class ID: 16
 
-Name: Madamanchi,Naga Bindu Class ID: 21
+Name: Madamanchi.Naga Bindu Class ID: 21
 
