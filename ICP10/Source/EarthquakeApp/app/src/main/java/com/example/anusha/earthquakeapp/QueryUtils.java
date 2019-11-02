@@ -16,13 +16,7 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
-import java.util.List;
-
-/**
- * Created by karthik on 11/3/17.
- */
-
-public class QueryUtils {
+import java.util.List;public class QueryUtils {
 
     /** Tag for the log messages */
     private static final String LOG_TAG = QueryUtils.class.getSimpleName();
